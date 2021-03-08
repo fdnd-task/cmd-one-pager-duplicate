@@ -1,7 +1,7 @@
 ---
 title: "extension"
 client: "CMD"
-description: "short description"    # Max. 280 characters in description
+description: "Voor de opdracht CMD-huisstijl-living-styleguide ga je van de huisstijl van CMD een living styleguide maken."
 semester: 1
 sprint: 4
 support-level: 4
